@@ -1,1 +1,1 @@
-permalink: /index111.html
+permalink: /index.html
