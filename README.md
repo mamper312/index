@@ -1,1 +1,1 @@
-# chtoto
+permalink: /index.html
